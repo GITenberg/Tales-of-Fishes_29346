@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
 description: Cover; Title Page; Copyright; CONTENTS; I; II; III; IV; V; VI; VII; VIII;
   IX; X; XI; XII; XII; XIV
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29346#Tales-of-Fishes
 gutenberg_issued: '2009-07-07'
 gutenberg_type: Text
 identifiers:
